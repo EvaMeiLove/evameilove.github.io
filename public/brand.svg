@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+ <defs>
+  <linearGradient id="bg"><stop stop-color="#fff0f5"/><stop offset="1" stop-color="#f3e5f5"/></linearGradient>
+  <linearGradient id="petal" x2="0" y2="1"><stop stop-color="#fce7f3"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <linearGradient id="center"><stop stop-color="#fff5f8"/><stop offset="1" stop-color="#fbbdd4"/></linearGradient>
+ </defs>
+ <rect width="180" height="180" rx="40" fill="url(#bg)"/>
+ <g fill="url(#petal)">
+  <ellipse cx="90" cy="50" rx="22" ry="34"/>
+  <ellipse cx="90" cy="50" rx="22" ry="34" transform="rotate(72 90 90)"/>
+  <ellipse cx="90" cy="50" rx="22" ry="34" transform="rotate(144 90 90)"/>
+  <ellipse cx="90" cy="50" rx="22" ry="34" transform="rotate(216 90 90)"/>
+  <ellipse cx="90" cy="50" rx="22" ry="34" transform="rotate(288 90 90)"/>
+ </g>
+ <circle cx="90" cy="90" r="27" fill="url(#center)"/>
+ <g fill="#ec4899"><circle cx="90" cy="79" r="6"/><circle cx="79" cy="98" r="6"/><circle cx="101" cy="98" r="6"/></g>
+</svg>
