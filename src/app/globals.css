@@ -1,0 +1,373 @@
+/* ============================================================
+   🌸 ГЛОБАЛЬНЫЕ СТИЛИ — DREAMY BLOSSOM THEME 🌸
+   ============================================================ */
+
+@import "tailwindcss";
+
+:root {
+  --font-playfair: "Playfair Display Variable";
+  --font-dmsans: "DM Sans Variable";
+}
+
+html { scroll-behavior: smooth; }
+.scroll-target, #support, #wishes, #crypto { scroll-margin-top: 7rem; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* ──────────────────────────────────────
+   КАСТОМНАЯ ТЕМА (Tailwind v4)
+   Здесь задаются цвета, шрифты, анимации
+   ────────────────────────────────────── */
+@theme {
+  /* Шрифты — устанавливаются через next/font в layout.tsx */
+  --font-display: var(--font-playfair), "Playfair Display", Georgia, serif;
+  --font-body: var(--font-dmsans), "DM Sans", system-ui, sans-serif;
+
+  /* ─── Розово-пастельная цветовая палитра ─── */
+  --color-blush-50: #fff5f8;
+  --color-blush-100: #fff0f5;
+  --color-blush-200: #fce4ec;
+  --color-petal-100: #fce7f3;
+  --color-petal-200: #fbcfe8;
+  --color-petal-300: #f9a8d4;
+  --color-pink-400: #f472b6;
+  --color-pink-500: #ec4899;
+  --color-pink-600: #db2777;
+  --color-lavender-100: #f3e5f5;
+  --color-lavender-200: #e9d5ff;
+  --color-lavender-300: #d8b4fe;
+  --color-purple-400: #c084fc;
+  --color-purple-500: #a855f7;
+  --color-rose-text: #831843;
+  --color-pink-text: #be185d;
+  --color-soft-text: #6b2d5e;
+
+  /* ─── Анимации ─── */
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-float-slow: float 9s ease-in-out 3s infinite;
+  --animate-float-fast: float 4s ease-in-out 1s infinite;
+  --animate-sparkle: sparkle 2.5s ease-in-out infinite;
+  --animate-sparkle-delayed: sparkle 2.5s ease-in-out 1.2s infinite;
+  --animate-gradient: gradient-shift 18s ease infinite;
+  --animate-pulse-glow: pulseGlow 3s ease-in-out infinite;
+  --animate-fade-up: fadeInUp 0.7s ease-out forwards;
+  --animate-scale-in: scaleIn 0.5s ease-out forwards;
+  --animate-wiggle: wiggle 3s ease-in-out infinite;
+  --animate-spin-slow: spin 20s linear infinite;
+  --animate-bounce-soft: bounceSoft 2s ease-in-out infinite;
+}
+
+/* ──────────────────────────────────────
+   KEYFRAMES — АНИМАЦИИ
+   ────────────────────────────────────── */
+
+/* Плавное покачивание (для декоративных элементов) */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  33% {
+    transform: translateY(-18px) rotate(6deg);
+  }
+  66% {
+    transform: translateY(-8px) rotate(-4deg);
+  }
+}
+
+/* Мерцание искорок */
+@keyframes sparkle {
+  0%, 100% {
+    opacity: 0;
+    transform: scale(0) rotate(0deg);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1) rotate(180deg);
+  }
+}
+
+/* Анимация градиентного фона */
+@keyframes gradient-shift {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+/* Вращение градиентного кольца аватара (без Framer Motion transform) */
+@keyframes avatarRingSpin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Пульсирующий свет вокруг аватара */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow:
+      0 0 20px rgba(244, 114, 182, 0.35),
+      0 0 40px rgba(192, 132, 252, 0.15),
+      inset 0 0 20px rgba(255, 255, 255, 0.1);
+  }
+  50% {
+    box-shadow:
+      0 0 40px rgba(244, 114, 182, 0.6),
+      0 0 80px rgba(192, 132, 252, 0.3),
+      inset 0 0 30px rgba(255, 255, 255, 0.2);
+  }
+}
+
+/* Появление снизу вверх */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(32px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Появление с увеличением */
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.85);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Лёгкое покачивание */
+@keyframes wiggle {
+  0%, 100% {
+    transform: rotate(-4deg) scale(1);
+  }
+  50% {
+    transform: rotate(4deg) scale(1.05);
+  }
+}
+
+/* Мягкое подпрыгивание */
+@keyframes bounceSoft {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+/* ──────────────────────────────────────
+   БАЗОВЫЕ СТИЛИ
+   ────────────────────────────────────── */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-dmsans), "DM Sans", system-ui, sans-serif;
+  color: #6b2d5e;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ──────────────────────────────────────
+   КАСТОМНЫЙ СКРОЛЛБАР 🌸
+   ────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fce4ec;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #f472b6, #c084fc);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, #ec4899, #a855f7);
+}
+
+.wish-filters {
+  scrollbar-width: thin;
+  scrollbar-color: #e5a3c5 transparent;
+  overscroll-behavior-x: contain;
+}
+
+.wish-filters::-webkit-scrollbar {
+  height: 4px;
+}
+
+.wish-filters::-webkit-scrollbar-track {
+  background: rgba(244, 114, 182, 0.09);
+  border-radius: 999px;
+}
+
+.wish-filters::-webkit-scrollbar-thumb {
+  background: #e5a3c5;
+  border-radius: 999px;
+}
+
+.wish-filters::-webkit-scrollbar-thumb:hover {
+  background: #db78a9;
+}
+
+/* ──────────────────────────────────────
+   ВЫДЕЛЕНИЕ ТЕКСТА
+   ────────────────────────────────────── */
+::selection {
+  background: rgba(244, 114, 182, 0.25);
+  color: #831843;
+}
+
+/* ──────────────────────────────────────
+   КАСТОМНЫЕ УТИЛИТЫ
+   ────────────────────────────────────── */
+
+/* Стеклянная карточка (glassmorphism) */
+.glass-card {
+  background: rgba(255, 255, 255, 0.65);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 182, 193, 0.35);
+  box-shadow:
+    0 8px 32px rgba(244, 114, 182, 0.1),
+    0 2px 8px rgba(244, 114, 182, 0.05);
+}
+
+/* Карточка с эффектом при наведении */
+.glass-card-hover {
+  transition: all 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.glass-card-hover:hover {
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow:
+    0 20px 60px rgba(244, 114, 182, 0.22),
+    0 8px 24px rgba(192, 132, 252, 0.12);
+  transform: translateY(-5px) scale(1.01);
+  border-color: rgba(244, 114, 182, 0.5);
+}
+
+/* Розовый градиентный текст */
+.text-gradient-pink {
+  background: linear-gradient(135deg, #f472b6 0%, #c084fc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Розово-фиолетовый градиент текст */
+.text-gradient-rose {
+  background: linear-gradient(135deg, #ec4899 0%, #f472b6 50%, #c084fc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Анимированный градиентный фон страницы */
+.bg-dreamy {
+  background: linear-gradient(-45deg, #fff0f5, #fce4ec, #f3e5f5, #ede9fe, #fce4ec);
+  background-size: 400% 400%;
+  animation: gradient-shift 18s ease infinite;
+}
+
+/* Розовое свечение (используется для кнопок и карточек) */
+.glow-pink {
+  box-shadow:
+    0 0 20px rgba(244, 114, 182, 0.4),
+    0 0 40px rgba(244, 114, 182, 0.2);
+}
+
+/* Нежная тень карточки */
+.shadow-soft {
+  box-shadow:
+    0 4px 24px rgba(244, 114, 182, 0.12),
+    0 1px 6px rgba(244, 114, 182, 0.08);
+}
+
+/* Прогресс-бар аудиоплеера */
+.progress-bar {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 4px;
+  background: rgba(244, 114, 182, 0.2);
+  border-radius: 2px;
+  outline: none;
+  cursor: pointer;
+}
+
+.progress-bar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #f472b6, #c084fc);
+  cursor: pointer;
+  box-shadow: 0 0 8px rgba(244, 114, 182, 0.5);
+  transition: transform 0.2s;
+}
+
+.progress-bar::-webkit-slider-thumb:hover {
+  transform: scale(1.3);
+}
+
+.progress-bar::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #f472b6, #c084fc);
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 0 8px rgba(244, 114, 182, 0.5);
+}
+
+/* Трек прогресс-бара (заполненная часть) */
+.progress-bar::-webkit-slider-runnable-track {
+  background: linear-gradient(
+    to right,
+    #f472b6 var(--progress, 0%),
+    rgba(244, 114, 182, 0.2) var(--progress, 0%)
+  );
+  border-radius: 2px;
+  height: 4px;
+}
+
+
+.photo-frame { display: block; overflow: hidden; }
+.photo-image { transition: opacity 220ms ease; }
+@media (prefers-reduced-motion: reduce) {
+  .photo-image { transition: none; }
+}
+
+
+.social-icon { transform: rotate(0deg); }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .group:hover .social-icon, .group:focus-visible .social-icon {
+    animation: social-icon-wiggle 460ms ease-in-out;
+  }
+}
+@keyframes social-icon-wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-8deg); }
+  65% { transform: rotate(8deg); }
+}

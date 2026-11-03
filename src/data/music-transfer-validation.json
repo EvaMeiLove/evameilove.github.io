@@ -1,0 +1,1122 @@
+{
+  "checkedAt": "2026-11-02T18:41:44.066Z",
+  "sourceRows": 1256,
+  "accepted": 1033,
+  "review": [
+    {
+      "id": "like-16",
+      "youtubeId": "67VC7GBak2Y",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-20",
+      "youtubeId": "qLCMbmMRA4I",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-21",
+      "youtubeId": "88kMPysI-M0",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-27",
+      "youtubeId": "7IEdjCqtGUo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-29",
+      "youtubeId": "-4l1R1AroMg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-30",
+      "youtubeId": "T5Fp2o85_rM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-33",
+      "youtubeId": "qARl8gVfUlg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-35",
+      "youtubeId": "TiW6NxdPyfU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-38",
+      "youtubeId": "jVdQ7NTFD9w",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-41",
+      "youtubeId": "d11xns8lE4w",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-43",
+      "youtubeId": "HKJLOjjptsM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-44",
+      "youtubeId": "-uQi0vJK9lk",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-45",
+      "youtubeId": "TkgDHsvxhlo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-58",
+      "youtubeId": "g4Xt1QNtmxY",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-64",
+      "youtubeId": "5Pai1xnHvas",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-66",
+      "youtubeId": "BHPl8TExg8E",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-73",
+      "youtubeId": "MzHIGLa7zaY",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-79",
+      "youtubeId": "v0woJXLRxEo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-82",
+      "youtubeId": "wLCwk35AV6U",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-89",
+      "youtubeId": "7Z5-DxdO26o",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-94",
+      "youtubeId": "2mXNRsyTitA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-96",
+      "youtubeId": "dCsBIPXfM2M",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-99",
+      "youtubeId": "ck9_AvuQ41s",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-103",
+      "youtubeId": "QaC2U0Z8cAk",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-107",
+      "youtubeId": "V3XdvJpIoPA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-108",
+      "youtubeId": "mKy8UBx2hh0",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-113",
+      "youtubeId": "axP9dk1MjcQ",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-119",
+      "youtubeId": "TTA_ajnBJLI",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-120",
+      "youtubeId": "cs8gz005iNE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-131",
+      "youtubeId": "Bjia3dKZqfo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-139",
+      "youtubeId": "gcA2ivj8Bgg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-145",
+      "youtubeId": "Ly6pS_6i4bM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-150",
+      "youtubeId": "KKCSwOVudMo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-162",
+      "youtubeId": "_AQdtEQ4Aog",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-168",
+      "youtubeId": "Cqog71h_yEU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-176",
+      "youtubeId": "_j0pO0TkUPE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-181",
+      "youtubeId": "r0Z73B_Iol4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-183",
+      "youtubeId": "Mf7RMretpcg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-187",
+      "youtubeId": "m26VDyOKkVc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-189",
+      "youtubeId": "CPN3IgGd6sc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-205",
+      "youtubeId": "JJmsaYUReCo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-209",
+      "youtubeId": "Pa-uSeBYAKA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-230",
+      "youtubeId": "FP9C3TpTmZU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-243",
+      "youtubeId": "S7k1lbGhtes",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-249",
+      "youtubeId": "m2xhPblHosY",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-256",
+      "youtubeId": "VYOgPwiEbmU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-260",
+      "youtubeId": "vDEMo7ECkxY",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-279",
+      "youtubeId": "nV7jxa1DrN0",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-290",
+      "youtubeId": "bcJ8Kvke9Lk",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-293",
+      "youtubeId": "2UfIXzKXic0",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-303",
+      "youtubeId": "of1zNqpaJLw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-308",
+      "youtubeId": "zALdGTwhcgk",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-312",
+      "youtubeId": "GLSr0BAlndM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-322",
+      "youtubeId": "zblaSROS_8U",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-326",
+      "youtubeId": "fHk1DvWdF5A",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-332",
+      "youtubeId": "kQzDH7-ZcCQ",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-335",
+      "youtubeId": "vrB8Eu4gXbA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-338",
+      "youtubeId": "BXWzpnHXYOw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-341",
+      "youtubeId": "EBajoQSJnvw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-346",
+      "youtubeId": "K7X_y7jAZGs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-348",
+      "youtubeId": "APZYPH1fZXE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-352",
+      "youtubeId": "l3VNypTMXpg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-353",
+      "youtubeId": "r7lNHWO0fY4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-354",
+      "youtubeId": "yTsRaKh6WqE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-357",
+      "youtubeId": "D2CcTBoX1sw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-363",
+      "youtubeId": "2asa1nLkQI4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-364",
+      "youtubeId": "QOFpILcbRXU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-367",
+      "youtubeId": "sns5p777Zdw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-377",
+      "youtubeId": "Y_udPAu2vyo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-501",
+      "youtubeId": "iw7ZIB-7-Tc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-503",
+      "youtubeId": "pcAKbKUBUOQ",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-504",
+      "youtubeId": "9TdYIbBq2vs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-509",
+      "youtubeId": "oGDjI40SjrA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-510",
+      "youtubeId": "Y6Lsr_z4hN0",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-514",
+      "youtubeId": "EHQnXOnZ3rU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-526",
+      "youtubeId": "xb2xwA9_1cs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-533",
+      "youtubeId": "4QI4fvX9EpA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-547",
+      "youtubeId": "MuK61ZOrreE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-551",
+      "youtubeId": "MHsMNcUAS2g",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-558",
+      "youtubeId": "A__cH65WRvE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-572",
+      "youtubeId": "yYujClLPyYo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-577",
+      "youtubeId": "zdNX49AQtXc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-581",
+      "youtubeId": "rLwckcrGH5I",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-597",
+      "youtubeId": "S4RtyVoo_Vw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-598",
+      "youtubeId": "UsK2aygbVFI",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-601",
+      "youtubeId": "JJwhsLkm_II",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-604",
+      "youtubeId": "gxoeHogydgc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-610",
+      "youtubeId": "lxV5abb9Jk4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-614",
+      "youtubeId": "RFwo6z_DvrU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-615",
+      "youtubeId": "TrbpUlfyOF8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-618",
+      "youtubeId": "EvPBx5TllWw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-623",
+      "youtubeId": "NqiTCzvTk6I",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-628",
+      "youtubeId": "LGP7gznUu5Y",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-630",
+      "youtubeId": "sJrXEMyeU8Y",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-631",
+      "youtubeId": "XXvph-0fxwI",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-642",
+      "youtubeId": "e5PARi9wu-E",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-649",
+      "youtubeId": "8WLrilvr4Qc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-654",
+      "youtubeId": "XDhOk_fYRWw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-655",
+      "youtubeId": "W2Civ4ZgOqc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-662",
+      "youtubeId": "utvIXIAr3Cw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-665",
+      "youtubeId": "BzLQs2qgdyA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-669",
+      "youtubeId": "4bo1yQpofvc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-672",
+      "youtubeId": "l2kxzkoXazU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-678",
+      "youtubeId": "kP0Gpb9MGRY",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-679",
+      "youtubeId": "TnV7lwNXahI",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-681",
+      "youtubeId": "JF1tdtzoGas",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-702",
+      "youtubeId": "Yp3rxBn0WoU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-703",
+      "youtubeId": "i4Hkk0LdHjc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-705",
+      "youtubeId": "_N7vnfe-6SM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-706",
+      "youtubeId": "25v3gCAvtUw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-707",
+      "youtubeId": "dqdbVlU1f0M",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-708",
+      "youtubeId": "292NyBTEPBU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-709",
+      "youtubeId": "vfFEXUksSGY",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-710",
+      "youtubeId": "bNdq0P_Bt_g",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-714",
+      "youtubeId": "6dk3Dhkn_ik",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-717",
+      "youtubeId": "wO2TLZ6Pqo4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-719",
+      "youtubeId": "xCP7bCJxxm8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-720",
+      "youtubeId": "khOFB1Erzdg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-726",
+      "youtubeId": "BCeO4jRz4pE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-731",
+      "youtubeId": "1U9iTixvzH4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-745",
+      "youtubeId": "0WrEwVFjMf8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-756",
+      "youtubeId": "KZ7gVXggHrs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-761",
+      "youtubeId": "vm8EVQErmg8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-770",
+      "youtubeId": "Ced64Hqhyug",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-773",
+      "youtubeId": "ZoriOdWjF94",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-793",
+      "youtubeId": "7C6Xyp9nvek",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-798",
+      "youtubeId": "1XC5y84RtcI",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-800",
+      "youtubeId": "RLhCZ90QBvs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-801",
+      "youtubeId": "-eGM0IJc70Y",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-802",
+      "youtubeId": "EDNZ2zubuKg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-811",
+      "youtubeId": "SmkMkUYpacs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-825",
+      "youtubeId": "twmEi_wMCrc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-831",
+      "youtubeId": "Yn8jBJ5iEdU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-841",
+      "youtubeId": "h6863vjJ9Ds",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-847",
+      "youtubeId": "9pLkY8nvcP",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-851",
+      "youtubeId": "YdDW5XD6GqU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-852",
+      "youtubeId": "yze99YuCyG8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-853",
+      "youtubeId": "DL4UoSXwaKM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-863",
+      "youtubeId": "3-81h8r2_LQ",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-874",
+      "youtubeId": "Q2zZnTXB218",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-879",
+      "youtubeId": "LKJ4j2rYvr0",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-880",
+      "youtubeId": "gM3ZGt5VhCU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-881",
+      "youtubeId": "t2qRiUkoGCo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-883",
+      "youtubeId": "lrdIorpsubE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-884",
+      "youtubeId": "ISnzi61j4P8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-889",
+      "youtubeId": "851-uEPl14Q",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-900",
+      "youtubeId": "3ZAfsF4_bH0",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-905",
+      "youtubeId": "r9zqHirrpGM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-906",
+      "youtubeId": "YSefnrf9aBs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-914",
+      "youtubeId": "srFXuN3uYfI",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-916",
+      "youtubeId": "w-9QbmebBn8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-917",
+      "youtubeId": "-BQHEr1JKXc",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-923",
+      "youtubeId": "Kxe3RrircuY",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-929",
+      "youtubeId": "Fy5JXxjJ9_Y",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-935",
+      "youtubeId": "dY1UZRual6U",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-936",
+      "youtubeId": "fbWSCRr30HE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-938",
+      "youtubeId": "kT1wRsfQ1UA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-944",
+      "youtubeId": "h57cdi9O8-k",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-945",
+      "youtubeId": "9Cnan7SJbxM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-962",
+      "youtubeId": "gvlAWqsnX-M",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-963",
+      "youtubeId": "X-o8eGhKhlI",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-964",
+      "youtubeId": "g-h6bFSYEv4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-965",
+      "youtubeId": "QMzkaOY0bKA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-967",
+      "youtubeId": "sfW9IDypS6c",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-981",
+      "youtubeId": "DF-LIPS7SGQ",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-991",
+      "youtubeId": "KXvCS2KBbPw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1032",
+      "youtubeId": "7PPsLebF3vU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1033",
+      "youtubeId": "qGbpOygiZ2A",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1065",
+      "youtubeId": "hzaksxj26zo",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1077",
+      "youtubeId": "ixCe6IHOUc8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1082",
+      "youtubeId": "C6zPa-whfp8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1083",
+      "youtubeId": "85f78FP7H-Y",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1090",
+      "youtubeId": "ZtXeYIZuzkY",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1099",
+      "youtubeId": "EV52yM4g04U",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1124",
+      "youtubeId": "t58nHdj818M",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1154",
+      "youtubeId": "UDKVyslAc90",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1158",
+      "youtubeId": "HipKbtTEyE8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1162",
+      "youtubeId": "OjcZePEYGrg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1183",
+      "youtubeId": "ZZKxS4UOoc4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1197",
+      "youtubeId": "ZphgnuXs0Rs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1233",
+      "youtubeId": "b9FpwBpA52M",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1235",
+      "youtubeId": "jzN7hGQb1yg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1236",
+      "youtubeId": "Ey8gm1W-e1Y",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1242",
+      "youtubeId": "JWFYh9_fkgs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1243",
+      "youtubeId": "VnTkH7ZvKKs",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1244",
+      "youtubeId": "3dOcOO4euD0",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1250",
+      "youtubeId": "9QeFL4pdcXM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1261",
+      "youtubeId": "WFAZeVX6mB8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1262",
+      "youtubeId": "b0GHr3CBXGQ",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1266",
+      "youtubeId": "YR32CNvcGfA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1298",
+      "youtubeId": "UonVoc65dx8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1300",
+      "youtubeId": "mEFjD1ODuKA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1307",
+      "youtubeId": "bNawbNsx52A",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1320",
+      "youtubeId": "hl8JLyhgZRE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1324",
+      "youtubeId": "lHwdUZul82Q",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1327",
+      "youtubeId": "GautxC_STJ4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1330",
+      "youtubeId": "P-i0jw61niE",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1331",
+      "youtubeId": "UcJ-2ywFun4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1333",
+      "youtubeId": "uNBVX0lK9iI",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1337",
+      "youtubeId": "7Iz1aYaxg_8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1342",
+      "youtubeId": "xpM59e6lyws",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1350",
+      "youtubeId": "5aw7rQEfJV4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1351",
+      "youtubeId": "93u7XVjNS7o",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1353",
+      "youtubeId": "3Yb2-CWjrME",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1358",
+      "youtubeId": "fkvMgv5oB3A",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1360",
+      "youtubeId": "Yj8ZufvGfvk",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1362",
+      "youtubeId": "mlq0opSBb_Y",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1379",
+      "youtubeId": "uyfA95yMEm8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1383",
+      "youtubeId": "dTekRVYmT4E",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1385",
+      "youtubeId": "7ujnbuAf_EA",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1386",
+      "youtubeId": "D9A9R9qEUzM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1389",
+      "youtubeId": "r0Z73B_Iol4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1391",
+      "youtubeId": "fjyHyv03lzg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1394",
+      "youtubeId": "WDUyiBjjqYY",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1398",
+      "youtubeId": "pECWX5VkQTk",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1402",
+      "youtubeId": "0QiyeAgUTN4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1403",
+      "youtubeId": "-ImtrFw69e8",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1419",
+      "youtubeId": "Mj2YQGtFU-4",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1427",
+      "youtubeId": "WlrzHVMyrjg",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1450",
+      "youtubeId": "_pwPm_VHWHU",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1461",
+      "youtubeId": "u7xWk7ZBSKw",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1462",
+      "youtubeId": "dZcVPCScbyM",
+      "reason": "unavailable_or_embedding_or_region"
+    },
+    {
+      "id": "like-1463",
+      "youtubeId": "go1zhk6J0sk",
+      "reason": "unavailable_or_embedding_or_region"
+    }
+  ]
+}
